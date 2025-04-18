@@ -83,7 +83,7 @@ h2, h3 {
       <button class="linkedin" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&url=http://example.com')">LinkedIn</button>
     </div><div class="content">
   <div class="left">
-    <img src="C:\Users\vaibh\OneDrive\Desktop\vaibhavi passphot.jpg" alt="Profile" style="width:200px; height:200px;">
+    <img src="vaibhavi passphot_imresizer.jpg" alt="Profile" style="width:200px; height:200px;">
     <style>
       h2 {
           color:solid rgb(1, 11, 17) 
